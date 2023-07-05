@@ -1,0 +1,12 @@
+https://blog.logrocket.com/modern-api-data-fetching-methods-react/
+
+// in passport-refresh-tutorial:
+/me: 
+pulls access token from request headers.
+retrieves payload from jwt (user data)
+stores user data from jwt into a user object
+sends user back to client.
+
+
+/token:
+refresh token stuff... (do later)
